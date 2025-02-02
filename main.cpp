@@ -3,7 +3,7 @@
 
 int main()
 {
-	int x = 0;
+    int value = 0xFFFF;
     std::cout << "Hello world" << std::endl;
 
     return 0;
