@@ -6,7 +6,10 @@ int get_value();
 int main()
 {
     int value = 0xFFFF;
-	std::cout << "Hello new world" << std::endl;
+	int y = 3;
+    std::cout << "Hello world" << std::endl;
+	int y = 5;
+    std::cout << "Hello new worlds" << std::endl;
 
     return 0;
 }
