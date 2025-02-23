@@ -6,8 +6,7 @@ int get_value();
 int main()
 {
     int value = 0xFFFF;
-	int y = 3;
-    std::cout << "Hello world" << std::endl;
+	std::cout << "Hello new world" << std::endl;
 
     return 0;
 }
